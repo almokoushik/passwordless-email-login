@@ -3,3 +3,5 @@
 #User click the email and the authentication will redirect it into the main action page.
 
 #git clone 
+#git install
+# chrome>setting>extension>enable developer mode>load unpack>select clone folder and load>refresh ext> done
